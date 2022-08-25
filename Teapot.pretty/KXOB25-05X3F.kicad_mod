@@ -27,7 +27,7 @@
   (fp_rect (start -12.625 -3.9) (end 12.625 4.5) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 402c4b1e-d22f-4996-859d-b831fc780112))
   (pad "1" smd rect (at -10.975 0.3) (size 3 7.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bf2af9af-5258-4719-9c7f-68611c4e4ad5))
   (pad "2" smd rect (at 11.025 0.3) (size 3 7.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e79e64fb-f0c2-45d7-84b8-3aec9725fa2e))
-  (model "${TEAPOT_3DMODEL_DIR}/KXOB25-05X3F.wrl"
+  (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/KXOB25-05X3F.wrl"
     (offset (xyz -11.35 -4.25 0))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 0))
