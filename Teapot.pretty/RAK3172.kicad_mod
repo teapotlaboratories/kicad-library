@@ -72,7 +72,7 @@
   (pad "30" smd rect (at 15.165 -8.99 180) (size 1.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 06575315-4445-46c8-8f5c-99e3b588968f))
   (pad "31" smd rect (at 15.165 -9.99 180) (size 1.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3bcf9c6b-2d9f-4448-aad5-41b22490a3c4))
   (pad "32" smd rect (at 15.165 -10.99 180) (size 1.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f05f7e0a-073d-4c21-831c-53c254e998cb))
-  (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot/bwlch1/hardware/kicad/external/teapot/3dmodels/RAK3172.STEP"
+  (model "${TEAPOT_3DMODEL_DIR}/RAK3172.STEP"
     (offset (xyz 15.5 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

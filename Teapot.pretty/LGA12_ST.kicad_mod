@@ -31,7 +31,7 @@
   (pad "10" smd rect (at 0.9 -0.75 180) (size 0.45 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a5899733-cd7e-4b1e-88e6-f007d82e1119))
   (pad "11" smd rect (at 0.25 -0.925 270) (size 0.45 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18be2509-2388-412f-bbe1-b3090e912f62))
   (pad "12" smd rect (at -0.25 -0.925 90) (size 0.45 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d7c00b59-5dac-4ae6-a3a1-0ea260709982))
-  (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/LIS3MDL.step"
+  (model "${TEAPOT_3DMODEL_DIR}/LIS3MDL.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

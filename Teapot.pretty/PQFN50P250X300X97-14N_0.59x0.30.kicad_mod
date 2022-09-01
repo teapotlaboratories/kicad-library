@@ -42,7 +42,7 @@
   (pad "12" smd roundrect (at 0.45 -0.915 90) (size 0.59 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04) (tstamp 87fcaf1e-66dc-4a70-b823-a4bc87323fb8))
   (pad "13" smd roundrect (at -0.05 -0.915 90) (size 0.59 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04) (tstamp a36dba40-9dd0-44a2-b6f6-f1f56e4699f8))
   (pad "14" smd roundrect (at -0.55 -0.915 90) (size 0.59 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04) (tstamp 908d18fc-ad99-4a3f-8cbb-ed46ef29ec38))
-  (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/LSM6DSOXTR.step"
+  (model "${TEAPOT_3DMODEL_DIR}/LSM6DSOXTR.step"
     (offset (xyz -0.05 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))
