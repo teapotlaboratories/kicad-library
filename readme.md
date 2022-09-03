@@ -1,9 +1,10 @@
-# Teapot KiCAD Library
 
+# Teapot KiCAD Library
 Welcome to Teapot KiCAD Library!
 Here are all of the KiCAD library that [Teapot's projects](https://github.com/teapotlaboratories) uses. Some are fetched from other source, and some are built in-house.
 
 ## To-Do
 - Proper naming convention for library items
-- Add reference to original source
-- General Clean-Up
+
+## License
+Most 3D Model, Symbol and Footprint have it's own license. Look for readme.md for their license specification.
