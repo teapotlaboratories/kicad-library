@@ -1,7 +1,7 @@
 (footprint "XDCR_VEML7700-TT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62DA258E)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.082 -4.2564) (layer "F.SilkS")
     (effects (font (size 0.64 0.64) (thickness 0.15)))
     (tstamp 255e6797-3678-474d-8121-fb30a004e7b0)

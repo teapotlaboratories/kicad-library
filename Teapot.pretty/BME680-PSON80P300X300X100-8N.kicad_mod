@@ -1,7 +1,7 @@
 (footprint "BME680-PSON80P300X300X100-8N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62D8E9CE)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.176933 -2.400905) (layer "F.SilkS")
     (effects (font (size 0.640952 0.640952) (thickness 0.15)))
     (tstamp 367285ba-29a5-4eef-879c-dbad4686300e)

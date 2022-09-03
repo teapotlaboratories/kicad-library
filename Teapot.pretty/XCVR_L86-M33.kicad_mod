@@ -1,7 +1,7 @@
 (footprint "XCVR_L86-M33" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62D76303)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -6.83545 -12.94087) (layer "F.SilkS")
     (effects (font (size 1.001528 1.001528) (thickness 0.15)))
     (tstamp 282a3dcd-8fc0-47de-bf18-ca4e883c4a2c)
@@ -830,9 +830,9 @@
   (pad "10" smd oval (at 7.75 -1.27) (size 2.5 1) (layers "F.Cu" "F.Mask") (tstamp 139de8c7-fdf8-4e49-8bbf-a47e827e5912))
   (pad "11" smd oval (at 7.75 -3.81) (size 2.5 1) (layers "F.Cu" "F.Mask") (tstamp af3f277a-a3ca-4d17-864c-905e06d9a431))
   (pad "12" smd oval (at 7.75 -6.35) (size 2.5 1) (layers "F.Cu" "F.Mask") (tstamp 4d443694-d6a6-4c6f-9034-3370b0ebacb0))
-  (model "${TEAPOT_3DMODEL_DIR}/L86.wrl"
+  (model "${TEAPOT_3DMODEL_DIR}/L86-M33.step"
     (offset (xyz 0 0.5 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz -90 0 180))
   )
 )

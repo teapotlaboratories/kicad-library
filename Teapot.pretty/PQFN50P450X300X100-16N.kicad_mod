@@ -1,7 +1,7 @@
 (footprint "PQFN50P450X300X100-16N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62E4B7D1)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.178 -3.121) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ac47833a-2df4-49c3-8f58-b97c7ee8b0d7)
