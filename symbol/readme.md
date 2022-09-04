@@ -11,6 +11,7 @@ Symbol design/distribute by and license to [SnapEDA](snapeda.com):
 - [LSM6DSOXTR](https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/)
 - [RAK3172](https://www.snapeda.com/parts/RAK3172/Shenzhen+RAKwireless+Technology+Co.%252CLtd./view-part/)
 - [VEML7700-TT](https://www.snapeda.com/parts/VEML7700-TT/Vishay%20Semiconductor%20Opto%20Division/view-part/)
+- [M138](https://www.snapeda.com/parts/M138%20Modem/Swarm/view-part/)
 
 ## SnapEDA License
 

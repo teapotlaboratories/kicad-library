@@ -10,6 +10,9 @@
 - [LSM6DSOXTR.step](https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/)
 - [RAK3172.STEP](https://www.snapeda.com/parts/RAK3172/Shenzhen+RAKwireless+Technology+Co.%252CLtd./view-part/)
 - [VEML7700-TT.step](https://www.snapeda.com/parts/VEML7700-TT/Vishay%20Semiconductor%20Opto%20Division/view-part/)
+- [Molex-67910-5700.STEP](https://www.snapeda.com/parts/67910-5700/Molex/view-part/)
+- [Molex-67910-0002.stp](https://www.snapeda.com/parts/67910-0002/Molex/view-part/)
+- [M138_MODEM.step](https://www.snapeda.com/parts/M138%20Modem/Swarm/view-part/)
 
 3D Models from Public Domain license:
 - [L86.wrl](https://github.com/Ratamuse/GNUVario-E-V3.1)
@@ -20,6 +23,7 @@
 - [BMM150.step](https://app.ultralibrarian.com/details/75c87d3d-1071-11e9-ab3a-0a3560a4cccc/Bosch-Sensortec/BMM150)
 - [Coilcraft-LPS4012.step](https://www.3dcontentcentral.com/download-model.aspx?catalogid=4610&id=214781)
 - [Coilcraft-LPS4012.wrl](https://www.3dcontentcentral.com/download-model.aspx?catalogid=4610&id=214781)
+- [RAK5146.stp](https://downloads.rakwireless.com/3D_File/WisLink/)
 
 ## SnapEDA License
 
