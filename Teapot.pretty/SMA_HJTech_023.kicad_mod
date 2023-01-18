@@ -117,8 +117,8 @@
   (pad "2" smd rect (at 3.6195 -2.54 90) (size 1.524 4.064) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 42f4aed4-72cb-46e9-a07d-fbbf9aaf0982))
   (pad "2" smd rect (at 3.6195 -2.54 90) (size 1.524 4.064) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 4f153841-ed16-4409-9460-e89a89f2274a))
   (pad "2" smd rect (at 3.6195 2.54 90) (size 1.524 4.064) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 860955e1-1eaf-4863-8b53-d4fa0e97bf50))
-  (model "/home/aldwin/Documents/Personal/container/personal_container/home/aldwin/Development/teapot-laboratories/kicad-library/3dmodels/CON-SMA-EDGE-S--3DModel-STEP-269445.STEP"
-    (offset (xyz 3.3 0 0))
+  (model "${TEAPOT_3DMODEL_DIR}/CON-SMA-EDGE-S--3DModel-STEP-269445.STEP"
+    (offset (xyz 3.25 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
