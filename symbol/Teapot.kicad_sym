@@ -1969,10 +1969,10 @@
     (property "Value" "LTC7151S" (id 1) (at 7.62 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -6.35 29.21 0)
+    (property "Footprint" "Teapot:VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm_ThermalVias" (id 2) (at 0 -35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at -6.35 29.21 0)
+    (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC7151S.pdf" (id 3) (at 0 -39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "LTC7151S_0_1"
