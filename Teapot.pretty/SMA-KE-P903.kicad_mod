@@ -117,4 +117,9 @@
   (pad "2" smd rect (at 2.032 -2.538 90) (size 1.524 4.064) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ddedd229-d701-4a9a-882c-cf65747db66d))
   (pad "2" smd rect (at 2.032 -2.538 90) (size 1.524 4.064) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e9de40a7-6ced-4cf5-8b89-c5562df3c910))
   (pad "2" smd rect (at 2.032 2.542 90) (size 1.524 4.064) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp fd67bfa2-9874-400f-820f-c567c99fae4d))
+  (model "${TEAPOT_3DMODEL_DIR}/CON-SMA-EDGE-S--3DModel-STEP-269445.STEP"
+    (offset (xyz 1.7 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
